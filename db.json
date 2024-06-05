@@ -1,0 +1,257 @@
+{
+  "sectionTasks": [
+    {
+      "id": "1",
+      "name": "Personal Errands"
+    },
+    {
+      "id": "2",
+      "name": "Urgent To-Do"
+    }
+  ],
+  "listTasks": [
+    {
+      "sectionTaskId": 1,
+      "id": "1",
+      "checked": false,
+      "title": "Close off Case #012920- RODRIGUES, Amiguel",
+      "remainingDays": "2 Days Left",
+      "date": "2021-06-12",
+      "description": "Closing off this case since this application has been cancelled. No one really understand how this case could possibly be cancelled. The options and the documents within this document were totally a guaranteed for a success!",
+      "notes": []
+    },
+    {
+      "sectionTaskId": 1,
+      "id": "2",
+      "checked": false,
+      "title": "Set up documentation report for several Cases : Case 145443, Case 192829 and Case 182203",
+      "remainingDays": "4 Days Left",
+      "date": "2021-06-14",
+      "description": "All Cases must include all payment transactions, all documents and forms filled. All conversations in comments and messages in channels and emails should be provided as well in.",
+      "notes": []
+    },
+    {
+      "sectionTaskId": 1,
+      "id": "3",
+      "checked": false,
+      "title": "Set up appointment with Dr Blake",
+      "remainingDays": "10 Days Left",
+      "date": "2021-06-22",
+      "description": "",
+      "notes": []
+    },
+    {
+      "sectionTaskId": 1,
+      "id": "4",
+      "checked": true,
+      "title": "Contact Mr Caleb - video conference?",
+      "remainingDays": "",
+      "date": "2021-06-03",
+      "description": "",
+      "notes": []
+    },
+    {
+      "sectionTaskId": 1,
+      "id": "5",
+      "checked": true,
+      "title": "Assign 3 homework to Client A",
+      "remainingDays": "",
+      "date": "2021-06-02",
+      "description": "",
+      "notes": []
+    },
+    {
+      "sectionTaskId": 2,
+      "id": "6",
+      "checked": false,
+      "title": "Cross-reference with Jeanne for Case #192813",
+      "remainingDays": "2 Days Left",
+      "date": "2021-06-12",
+      "description": "",
+      "notes": [
+        1,
+        2
+      ]
+    },
+    {
+      "sectionTaskId": 2,
+      "id": "7",
+      "checked": true,
+      "title": "Contact Andrew for Online Meeting and Conference",
+      "remainingDays": "",
+      "date": "2021-06-03",
+      "description": "",
+      "notes": []
+    },
+    {
+      "sectionTaskId": 2,
+      "id": "8",
+      "checked": true,
+      "title": "Check and Revise Homework from Andre Gonzales",
+      "remainingDays": "",
+      "date": "2021-06-11",
+      "description": "Homeworks needed to be checked are as follows : Client Profile Questionnaire, Passport Requirements and Images, Personal Documents.",
+      "notes": [
+        5,
+        6
+      ]
+    }
+  ],
+  "rooms": [
+    {
+      "id": "1",
+      "picture": 1,
+      "name": "109220-Naturalization",
+      "date": "January 1,2021 19:10",
+      "userName": "Cameron Phillips",
+      "lastChat": "Please check this out!",
+      "read": false,
+      "participants": 2
+    },
+    {
+      "id": "2",
+      "picture": 1,
+      "name": "Jeannette Moraima Guaman Chamba (Hutto I-589) [ Hutto Follow Up - Brief Service ]",
+      "date": "02/06/2021 10:45",
+      "userName": "Ellen",
+      "lastChat": "Hey, please read.",
+      "read": true,
+      "participants": 2
+    },
+    {
+      "id": "3",
+      "picture": 1,
+      "name": "8405-Diana SALAZAR MUNGUIA",
+      "date": "01/06/2021 12:19",
+      "userName": "Cameron Phillips",
+      "lastChat": "I understand your initial concerns and thats very valid, Elizabeth. But you ...",
+      "read": true,
+      "participants": 2
+    },
+    {
+      "id": "4",
+      "picture": 2,
+      "name": "FastVisa Support",
+      "date": "01/06/2021 12:19",
+      "userName": "",
+      "lastChat": "Hey there! Welcome to your inbox.",
+      "read": true,
+      "participants": 2
+    },
+    {
+      "id": "5",
+      "picture": 1,
+      "name": "I-589 - AMARKHIL, Obaidullah [Affirmative Filing with ZHN]",
+      "date": "01/06/2021 12:19",
+      "userName": "Obaidullah Amarkhil",
+      "lastChat": "Morning. I’ll try to do them. Thanks",
+      "read": false,
+      "participants": 3
+    }
+  ],
+  "chats": [
+    {
+      "roomId": 5,
+      "id": "1",
+      "userName": "Mary Hilda",
+      "message": "Just Fill me in for his updates yea?",
+      "date": "19:32",
+      "read": true,
+      "color": 1,
+      "reply": ""
+    },
+    {
+      "roomId": 5,
+      "id": "2",
+      "userName": "You",
+      "message": "No worries. It will be completed ASAP. I’ve asked him yesterday.",
+      "date": "19:32",
+      "read": true,
+      "color": "",
+      "reply": ""
+    },
+    {
+      "roomId": 5,
+      "id": "3",
+      "userName": "Mary Hilda",
+      "message": "Hello Obaidullah, I will be your case advisor for case #029290. I have assigned some homework for you to fill. Please keep up with the due dates. Should you have any questions, you can message me anytime. Thanks.",
+      "date": "19:32",
+      "read": true,
+      "color": 1,
+      "reply": ""
+    },
+    {
+      "roomId": 5,
+      "id": "4",
+      "userName": "You",
+      "message": "Please contact Mary for questions regarding the case bcs she will be managing your forms from now on! Thanks Mary.",
+      "date": "19:32",
+      "read": true,
+      "color": "",
+      "reply": ""
+    },
+    {
+      "roomId": 5,
+      "id": "5",
+      "userName": "Mary Hilda",
+      "message": "Sure thing ,Claren.",
+      "date": "19:32",
+      "read": true,
+      "color": 1,
+      "reply": ""
+    },
+    {
+      "roomId": 5,
+      "id": "6",
+      "userName": "Obaidullah Amarkhil",
+      "message": "Morning. I’ll try to do them. Thanks",
+      "date": "19:32",
+      "read": false,
+      "color": 2,
+      "reply": ""
+    },
+    {
+      "roomId": 1,
+      "id": "7",
+      "userName": "Cameron Phillips",
+      "message": "Please check this out!",
+      "date": "19:10",
+      "read": false,
+      "color": 1,
+      "reply": ""
+    },
+    {
+      "roomId": 2,
+      "id": "8",
+      "userName": "Ellen",
+      "message": "Hey, please read.",
+      "date": "10:45",
+      "read": true,
+      "color": 1,
+      "reply": ""
+    },
+    {
+      "roomId": 3,
+      "id": "9",
+      "userName": "Cameron Phillips",
+      "message": "I understand your initial concerns and thats very valid, Elizabeth. But you ...",
+      "date": "12:19",
+      "read": true,
+      "color": 1,
+      "reply": ""
+    },
+    {
+      "roomId": 4,
+      "id": "10",
+      "userName": "FastVisa Support",
+      "message": "Hey there! Welcome to your inbox.",
+      "date": "12:19",
+      "read": true,
+      "color": 3,
+      "reply": ""
+    }
+  ],
+  "profile": {
+    "name": "Quicks"
+  }
+}
